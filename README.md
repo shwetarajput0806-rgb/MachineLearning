@@ -35,7 +35,7 @@ This repository is designed for beginners and enthusiasts who want to learn and 
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN
-- Principal Component Analysis (PCA)
+- Principal Component Analysis (PCA).
 
 ### 🔹 Data Preprocessing
 - Handling Missing Values
